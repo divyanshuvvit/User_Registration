@@ -69,9 +69,13 @@ curl http://localhost:8080/api/user/fetch?username=testuser
 To summarize:
 
 Open the terminal in VS Code.
+
 Ensure you are in the root directory of your project.
+
 Use the Maven Wrapper to run your Spring Boot application with ./mvnw spring-boot:run or mvnw.cmd spring-boot:run on Windows.
+
 Test your API endpoints using tools like Postman or curl.
+
 This process will allow you to see your Spring Boot application in action and verify that the endpoints are functioning as expected.
 
 
