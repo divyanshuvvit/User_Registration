@@ -11,5 +11,4 @@ This is a Spring Boot application for user registration and fetching user detail
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/spring-boot-user-registration.git
-   cd spring-boot-user-registration
+ 
